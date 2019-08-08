@@ -31,6 +31,7 @@
 ### 检索式
 - One Time of Interaction May Not Be Enough: Go Deep with an Interaction-over-Interaction Network for Response Selection in Dialogues
 - Learning a Matching Model with Co-teaching for Multi-turn Response Selection in Retrieval-based Dialogue Systems
+- Retrieval-Enhanced Adversarial Training for Neural Response Generation
 ### 生成式
 - Improving Multi-turn Dialogue Modelling with Utterance ReWriter
 - Do Neural Dialog Systems Use the Conversation History Effectively? An Empirical Study
